@@ -1,5 +1,26 @@
-### Hi there 👋
+## Hi there 👋
+[![](https://img.shields.io/badge/LinkedIn-DawidBazan-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/dawid-bazan/)
+[![](https://img.shields.io/badge/StackOverflow-8azan-critical?logo=Stackoverflow&labelColor=black)](https://stackoverflow.com/users/9512260/8azan)
+[![](https://img.shields.io/badge/BTC-3QzGAZ2SMkww2tqVps4HonhKgfQATR2qGf-orange?logo=Bitcoin&labelColor=black)]()
 
+```swift
+let me = {
+    return DawidBazan(
+      pronouns: ["He", "Him"],
+      code: ["Swift", "Objective-c"],
+      newbie: ["Kotlin", "Java"]
+      askMeAbout: ["iOS", "mac tips", "moto sports", "finance"],
+      technologies: Technologies(
+                      software: ["iOS", "watchOS", "macOS", "Linux"],
+                      hardware: ["raspberryPi", "Arduino", "Nordic"]
+                    )
+      },
+      architectures: ["Clean architecture", "The binder architecture", "MVVM", "MVC"],
+      currentProject: "Working on improving Cryptofolio",
+      funFact: "Apple's cash and investments are now equal to the GDP of Hungary"
+    )
+}()
+```
 <!--
 **DawidBazan/DawidBazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
