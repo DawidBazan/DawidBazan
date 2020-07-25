@@ -12,7 +12,7 @@ let me = {
       askMeAbout: ["iOS", "mac tips", "moto sports", "finance"],
       technologies: Technologies(
                       software: ["iOS", "watchOS", "macOS", "Linux"],
-                      hardware: ["raspberryPi", "Arduino", "Nordic"]
+                      hardware: ["RaspberryPi", "Arduino", "Nordic"]
                     )
       },
       architectures: ["Clean architecture", "The binder architecture", "MVVM", "MVC"],
