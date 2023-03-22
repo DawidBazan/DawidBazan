@@ -6,7 +6,6 @@
 ```swift
 let me = {
     return DawidBazan(
-      pronouns: ["He", "Him"],
       code: ["Swift", "Objective-c"],
       newbie: ["Kotlin", "Java"]
       askMeAbout: ["iOS", "mac tips", "moto sports", "finance"],
@@ -16,7 +15,7 @@ let me = {
                     )
       },
       architectures: ["Clean architecture", "The binder architecture", "MVVM", "MVC"],
-      currentProject: "Working on improving Cryptofolio",
+      currentProject: "Playing around with SwiftUI. New apps coming soon. 👨🏻‍💻",
       funFact: "Apple's cash and investments are now equal to the GDP of Hungary"
     )
 }()
